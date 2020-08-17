@@ -1,0 +1,40 @@
+h1{
+    text-align:center;
+    background-color: blueviolet;
+}
+.box{
+
+    height:300px;
+    padding-left:40px;
+    padding-top:20px;
+    margin:30px;
+    background-color: gray;
+    font-weight: bold;
+    color:white;
+
+}
+
+.box1{
+    height:300px;
+    padding-left:40px;
+margin:30px;
+    padding-top:20px;
+    background-color: skyblue;
+    font-weight: bold;
+    color:white;
+
+
+}
+.box2{
+    height:300px;
+    padding-left:40px;
+    padding-top:20px;
+    margin: 30px;
+    background-color: maroon;
+    font-weight: bold;
+    color:white;
+
+
+}
+
+
